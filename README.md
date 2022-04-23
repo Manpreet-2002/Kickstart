@@ -1,4 +1,7 @@
 # Kickstart_updated
+
+![Kickstart](https://user-images.githubusercontent.com/79961524/164913045-b8f7482c-1c31-4b36-abeb-07bd412be3bc.png)
+
 This project is a web3 replica of Kickstarter application.
 There are 2 contracts in ethereum/contract/Campaign.sol file - Campaign and Campaign factory.
 
