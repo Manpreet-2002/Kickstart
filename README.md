@@ -15,6 +15,7 @@ NOTE:- To run this application, add a scripts.js file in the ethereum folder and
 const rinkebyInfuraKey = "YOUR INFURA KEY FOR RINKEBY NETWORK"
 
 exports.seedPhrase = seedPhrase;
-exports.rinkebyInfuraKey = rinkebyInfuraKey;```
+exports.rinkebyInfuraKey = rinkebyInfuraKey;
+```
 
 This was the final project in the Ethereum And Solidity The Complete Developers Guide : Udemy course
