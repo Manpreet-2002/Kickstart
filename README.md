@@ -9,4 +9,12 @@ The Campaign contract essentially describes what a campaign is, who is the manag
 
 The CampaignFactory contract is sort of a manager for the campaign contract as the user invokes a transaction on the CampaignFactory contract to deploy an instance of a camapign on the blockchain and it records the address of that campaign instance.
 
+NOTE:- To run this application, add a scripts.js file in the ethereum folder and add the following code
+
+`const seedPhrase = "YOUR 12 WORD SEED PHRASE"
+const rinkebyInfuraKey = "YOUR INFURA KEY FOR RINKEBY NETWORK"
+
+exports.seedPhrase = seedPhrase;
+exports.rinkebyInfuraKey = rinkebyInfuraKey;`
+
 This was the final project in the Ethereum And Solidity The Complete Developers Guide : Udemy course
