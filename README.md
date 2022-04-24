@@ -11,7 +11,8 @@ The CampaignFactory contract is sort of a manager for the campaign contract as t
 
 NOTE:- To run this application, add a scripts.js file in the ethereum folder and add the following code
 
-```const seedPhrase = "YOUR 12 WORD SEED PHRASE"
+```
+const seedPhrase = "YOUR 12 WORD SEED PHRASE"
 const rinkebyInfuraKey = "YOUR INFURA KEY FOR RINKEBY NETWORK"
 
 exports.seedPhrase = seedPhrase;
